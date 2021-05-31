@@ -1,0 +1,7 @@
+[user]
+	name = Erol Bilican
+	email = erol.bilican@gmail.com
+[push]
+	default = matching
+[alias]
+	co = checkout
